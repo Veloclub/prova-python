@@ -9,3 +9,8 @@ print('b =',b)
 print('a+b =',a+b)
 print('a*b =',a*b)
 print('a/b =',a/b)
+
+print('a*a/b =',a*a/b)
+
+# %%
+print('gaga05')
